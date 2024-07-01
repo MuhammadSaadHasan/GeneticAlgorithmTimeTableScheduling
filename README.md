@@ -20,8 +20,7 @@ timetable/
 │   ├── data.xlsx
 │   ├── timetable.xlsx
 ├── main.py
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 - `data/`: Contains the input data files.
